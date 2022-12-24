@@ -17,7 +17,7 @@ const picwtsp = 'https://cdn.jsdelivr.net/gh/mukeshtandi/sadlye/wtsp.png';
 const fbpic = 'https://cdn.jsdelivr.net/gh/mukeshtandi/sadlye/fb.png';
 const messengerpic = 'https://cdn.jsdelivr.net/gh/mukeshtandi/sadlye/messenger.png';
 const sharewpmobi = '*'+name+'* hat dir ein schönes Geschenk.🎁%0A Berühre diese blaue Linie und sieh nach.%0A👇👇👇%0A https://sadlye.com/gg/?n=';
-const sharefbmobi = 'https%3A%2F%2Fsadlye.com/gg/?n=';
+const sharefbmobi = 'https%3A%2F%2Fstatusspeak.com/gg/?n=';
 const fbID = '413498309346615';
 const wpbtnName = 'Share on Whatsapp';
 const FbLinkBlockExtraText = '';
